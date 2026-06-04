@@ -5,6 +5,18 @@
       "partner": "facebook",
       "clicks": 1200,
       "spend": 85
+    },
+    {
+      "date": "2026-06-02",
+      "partner": "tayalove",
+      "clicks": 228,
+      "spend": 85
+    },
+    {
+      "date": "2026-06-03",
+      "partner": "mishalove",
+      "clicks": 228,
+      "spend": 85
     }
   ],
   "leads": [
